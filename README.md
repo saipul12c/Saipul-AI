@@ -42,7 +42,7 @@ Proyek ini dibangun menggunakan HTML, CSS, JavaScript, dan JSON sebagai database
 ### **1. Unduh atau Clone Repositori**
 Untuk memulai, unduh atau clone repositori ini ke komputer lokal Anda:
 ```bash
-git clone https://github.com/username/ai-qa-app.git
+https://github.com/saipul12c/Saipul-AI.git
 ```
 
 ### **2. Menyiapkan File JSON**
@@ -113,7 +113,7 @@ Aplikasi ini dilisensikan di bawah lisensi MIT. Anda bebas untuk menggunakan, me
 ## **Penulis**
 
 - **Nama Penulis**: [Muhammad Syaiful Mukmin]
-- **Kontak**: [Email atau link ke profil GitHub]
+- **Kontak**: [https://github.com/saipul12c]
 
 ---
 
