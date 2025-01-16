@@ -1,0 +1,23 @@
+[
+    {
+        "question": "Apa itu AI?",
+        "answer": "AI adalah kecerdasan buatan yang diciptakan untuk meniru perilaku manusia.",
+        "category": "Teknologi",
+        "image": "https://example.com/ai_image.jpg"
+    },
+    {
+        "question": "Siapa penemu komputer?",
+        "answer": "Penemu komputer pertama adalah Charles Babbage.",
+        "category": "Sejarah"
+    },
+    {
+        "question": "Apa itu JavaScript?",
+        "answer": "JavaScript adalah bahasa pemrograman yang digunakan untuk membuat situs web interaktif.",
+        "category": "Teknologi"
+    },
+    {
+        "question": "Apa itu CSS?",
+        "answer": "CSS adalah bahasa untuk mendesain tampilan web.",
+        "category": "Teknologi"
+    }
+]
